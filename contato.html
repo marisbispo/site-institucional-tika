@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/estilo-responsivo.css">
+        <link rel="stylesheet" href="css/estilo-desktop.css">
+
+        <title>TIKA - Contato</title>
+    </head>
+    <body>
+        <header class="cabecalho-receitas">
+            <div class="barra-cabecalho-receitas">
+                <a href="index.html"><img src="img/logo.png" class="logo"></a>
+                    <button class="menu-abrir">menu</button>
+                        <nav class="menu-principal">
+                            <button class="menu-fechar"></button>
+                            
+                            <ul>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.html#sobre" class="nossa-historia">Nossa História</a></li>
+                                <li><a href="produtos.html">Produtos</a></li>
+                                <!--<li>Loja Online</li>
+                                <li>Tika No Mundo</li>
+                                <li>Recetikas</li>-->
+                                <li><a href="receitas.html">Receitas</a></li>
+                                <li><a href="contato.html">Contato</a></li>
+                            </ul>
+                        </nav>
+            </div> 
+            
+            <div class="chamada-receitas">
+                <p>Contato</p>
+               <!-- <p>Tika: alimentos</p>
+                <p>inovadores e naturais</p>
+            </div>-->
+        </header>
+        <main>
+            <form>
+                <label for="nome">Nome:</label>
+                    <input type="text" id="nome" class="input-padrao">
+                <label for="email">E-mail</label>
+                    <input type="email" id="email" class="input-padrao">
+                <label for="tel">Telefone</label>
+                    <input type="tel" id="tel" class="input-padrao">
+                    <label for="comentario">Mensagem:</label>
+                <textarea id="comentario" cols="25" rows="10" class="input-enviar"></textarea>
+                <input type="submit" value="Enviar Mensagem" class="enviar">   
+            </form>
+        </main>
+        <footer id="rodape">
+            <div class="rodape-redes">
+                <img src="img/fb.png"><img src="img/ig.png">
+            </div>
+            <div class="paginas">
+                <ul>
+                    <li><a href="#sobre">Nossa Historia</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href="receitas.html">Receitas</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </div>
+
+            <div class="logo-footer">
+                <img src="img/logo.png" class="logo-rodape">
+            </div>
+        </footer>
+    
+            <script src="js/menu.js"></script>
+        </body>
+    </html>

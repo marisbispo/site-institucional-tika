@@ -1,0 +1,594 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fa.fa-envelope-o
+{
+    font-size: 25px;
+    position: relative;
+    color: white;
+}
+
+.fondoo
+{
+    margin-top: -60px;
+    background-size:cover !important;
+    height: 732px;
+    filter: grayscale(0%) brightness(90%);
+    -webkit-filter: grayscale(0%) brightness(90%);
+    -moz-filter: grayscale(0%) brightness(90%);
+    -ms-filter: grayscale(0%) brightness(90%);
+    -o-filter: grayscale(0%) brightness(90%);
+    background-position:center !important;
+}
+
+.fondoo-suc
+{
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: 0px ;
+    width: 100%;
+    height:745px;
+    margin-bottom: 16px;
+}
+
+.fondoo_inside
+{
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: 0px ;
+    width: 100%;
+    margin-bottom: 16px;
+    position: absolute;
+    z-index: 200;
+}
+
+img.tikaa
+{
+    width: 194px;
+    margin-left: 57px;
+}
+
+.gran2
+{
+   position:relative;
+   left:-39px;
+   width:150%;
+
+}
+
+.natural
+{
+    position: relative;
+    color: white;
+    margin-top: -498px;
+    left: -65px;
+    font-size: 57px;
+    text-align: left;
+    font-weight: 700;
+    min-width: 700px;
+    line-height: 1.2;
+}
+
+.papita
+{
+    position: relative;
+    margin-top: -840px;
+    margin-left: 53px;
+}
+
+.papitaa
+{
+    position: relative;
+    margin-top: -845px;
+    margin-left: -0px;
+}
+
+.papitaaa
+{
+    position: relative;
+    margin-top: -845px;
+    margin-left: -18px;
+}
+
+.art
+{
+    position: relative;
+    margin-top: -442px;
+    margin-left: 80px;
+    font-size: 17px;
+    width: 93%;
+    color: white;
+    font-weight: 700;
+}
+
+.art
+{
+    position: relative;
+    margin-top: -442px;
+    margin-left: 80px;
+    font-size: 17px;
+    width: 93%;
+    color: white;
+    font-weight: 700;
+}
+
+.artt
+{
+    position: relative;
+    margin-top: -443px;
+    margin-left: 25px;
+    font-size: 17px;
+    width: 93%;
+    color: white;
+    font-weight: 700;
+}
+
+.arttt
+{
+    position: relative;
+    margin-top: -443px;
+    margin-left: 8px;
+    font-size: 17px;
+    width: 93%;
+    color: white;
+    font-weight: 700;
+}
+
+.colorr
+{
+    color: white !important;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.colorrr
+{
+    color: white !important;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.navbar-transparent
+{
+    background-color: transparent !important;
+    border-color: transparent !important;
+    background-image:none;
+}
+
+.nav-header-li-hover li:hover
+{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.navbar-default .navbar-nav>li>a
+{
+    padding-top: 20px;
+    padding-bottom: 19px;
+}
+
+.navbar-default .navbar-nav>li>a.padding-icon
+{
+    padding-bottom: 17px;
+    padding-top: 17px;
+}
+
+.fa.fa-shopping-cart
+{
+    font-size: 25px;
+}
+
+.menu-bar-button
+{
+    left: -10px;
+    position: relative;
+    display: block;
+    margin-right: 10px;
+    z-index: 999999;
+}
+
+.menu-bar-button .fa
+{
+    font-size: 38px;
+    margin-top: 4px;
+}
+
+.linea
+{
+    height: 60px;
+    position: relative;
+    width: 119%;
+    left: -94px;
+}
+
+.head-container
+{
+    height: 60px;
+    box-shadow: inset 6000px 0 0 0 rgba(0, 0, 0, 0.5);
+    position: relative;
+    width: 100;
+    z-index: 9;
+}
+
+.language
+{
+    position: relative;
+    top: 14px;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus
+{
+    border-bottom: 2px solid red!important;
+    background-color:#1c1c1b!important;
+}
+
+.dropdown-menu>li>a
+{
+    color: white!important;
+    background: #1c1c1b;
+    font-weight: 600;
+}
+
+.dropdown-menu
+{
+    background-color: inherit!important;
+}
+
+.dropdown-menu>li>a:hover
+{
+    background-color: rgba(0,0,0,0.5);
+}
+
+@media (min-width: 1281px)
+{
+    .fondoo
+    {
+        background-size: cover !important;
+        height: 944px;
+    }
+}
+
+@media (max-width: 1085px)
+{
+    .papitaa
+    {
+        margin-left: 35px;
+    }
+
+    .artt
+    {
+        margin-left: 61px;
+    }
+}
+
+@media (max-width: 1250px)
+{
+    .navbar-header
+    {
+        float: none;
+    }
+
+    .navbar-toggle
+    {
+        display: block;
+    }
+
+    .navbar-collapse
+    {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+
+    .navbar-collapse.collapse
+    {
+        display: none!important;
+    }
+
+    .navbar-nav
+    {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+
+    .navbar-nav>li
+    {
+        float: none;
+    }
+
+    .navbar-nav>li>a
+    {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-text
+    {
+        float: none;
+        margin: 15px 0;
+    }
+
+    .navbar-collapse.collapse.in
+    {
+        display: block!important;
+        background-color: #1c1c1b;
+    }
+
+    .collapsing
+    {
+        overflow: hidden!important;
+    }
+
+    .navbar-default .navbar-nav > li > a
+    {
+        background-color: black;
+        margin: -1px;
+        background: rgba(0, 0, 0, 0.9);
+        background: #1c1c1b;
+    }
+
+    .navbar-toggle
+    {
+        position: relative;
+       left: -69px;
+    }
+
+    .dropdown-menu>li>a
+    {
+        margin: 0px!important;
+    }
+
+    .navbar-left
+    {
+        z-index: 1000;
+        position: relative;
+   }
+
+    #bs-example-navbar-collapse-1
+    {
+        z-index: 1000;
+        position: relative;
+        overflow-x: hidden;
+    }
+
+    .gran2
+    {
+        left: 94px;
+        width: 86%;
+    }
+}
+
+@media (max-width:1200px)
+{
+    .dis
+    {
+        display: block !important;
+        left : 0px;
+    }
+
+    .natural
+    {
+        left: 0px;
+    }
+
+    .papita
+    {
+        margin-left: 13px;
+        position: relative;
+        top: 223px;
+    }
+
+    .art
+    {
+        margin-left: 52px;
+        position: relative;
+        top: 223px;
+    }
+
+    .papitaa
+    {
+        margin-top: -340px;
+        margin-left: 12px;
+    }
+
+    .artt
+    {
+        margin-top: -192px;
+        margin-left: 51px;
+    }
+
+    .papitaaa
+    {
+        margin-top: -284px;
+        margin-left:12px;
+    }
+
+    .arttt
+    {
+        margin-top: -163px;
+        margin-left: 50px;
+    }
+}
+
+@media all and (max-width: 780px)
+{
+    .natural
+    {
+        font-size: 33px;
+    }
+
+    .dis
+    {
+        top : 0px;
+    }
+}
+
+@media all and (max-width: 767px)
+{
+    .men-t
+    {
+        position: absolute;
+    }
+
+    .navbar-default .navbar-nav > li > a
+    {
+        background-color: black;
+        margin: -1px;
+        background: rgba(0, 0, 0, 0.9);
+        background: #1c1c1b;
+    }
+
+    .navbar-toggle
+    {
+        position: relative;
+       left: -10px;
+    }
+
+    .dropdown-menu>li>a
+    {
+        margin: 0px!important;
+    }
+
+    .navbar-left
+    {
+        z-index: 1000;
+        position: relative;
+   }
+
+    #bs-example-navbar-collapse-1
+    {
+        z-index: 1000;
+        position: relative;
+        overflow-x: hidden;
+    }
+
+    .gran2{
+        left: 94px;
+        width: 97%;
+    }
+
+    img.tikaa
+    {
+        margin-left: 100px;
+    }
+}
+
+@media screen and (max-width: 700px)
+{
+    .logo_wrapper.col-md-3.col-sm-4.col-xs-12
+    {
+        z-index: 99999;
+    }
+
+    .navbar-default .navbar-toggle
+    {
+        z-index: 99999;
+    }
+
+    .men-t
+    {
+        position: absolute;
+    }
+
+    .natural
+    {
+        font-size: 33px;
+        left: -2px;
+        top: 130px;
+        height: 133px;
+        overflow: hidden;
+        margin-top: -462px;
+        margin-top: -462px;
+        min-width: 329px;
+        text-align: left;
+        position: relative;
+    }
+
+    .navbar-left
+    {
+        z-index: 1000;
+        position: relative;
+    }
+
+    #bs-example-navbar-collapse-1
+    {
+        z-index: 1000;
+        position: relative;
+    }
+
+    .navbar-default .navbar-nav > li > a
+    {
+        background-color: black;
+        margin: -1px;
+        background: rgba(0, 0, 0, 0.9);
+        background: #1c1c1b;
+    }
+
+    img.tikaa
+    {
+        margin-left: 52px;
+        width: 33%;
+    }
+
+    .navbar-toggle
+    {
+        position: relative;
+        left: -10px;
+    }
+
+    .dropdown-menu>li>a
+    {
+        margin: 0px!important;
+    }
+
+    .linea
+    {
+        left: -44px;
+    }
+
+    .gran2
+    {
+        left: 43px;
+        margin-top: 70px;
+    }
+
+    .dis
+    {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width:414px)
+{
+    .natural
+    {
+        left: 1px;
+    }
+}
+
+@media screen and (max-width:400px)
+{
+    .natural
+    {
+        left: -11px;
+    }
+}
+
+@media screen and (max-width:320px)
+{
+    .natural
+    {
+        font-size: 33px;
+        left: -31px;
+        margin-top: -462px;
+        min-width: 329px;
+        text-align: center;
+    }
+
+    .navbar-toggle{
+        position: relative;
+       left: -10px;
+    }
+}

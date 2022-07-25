@@ -1,0 +1,283 @@
+@media (min-width:1026px){
+
+    .cabecalho{
+        height: 700px;
+    }
+
+    .logo{
+        width:10%;
+    }
+
+    .barra-cabecalho{
+        height:10%;
+    }
+
+  
+.menu-principal li{
+    display:inline-block;
+    padding:25px 10px 10px 10px;
+}
+
+.menu-principal li a{
+    color:white;
+    text-decoration: none;
+}
+
+
+
+.menu-principal{
+    position: absolute;
+    right: 10%;
+    top: 0;
+    left: auto;
+    background: none;
+    font-weight: 600;
+    padding:0;
+    max-width: fit-content;
+
+    
+}
+
+.chamada{
+    font-size: 40px;
+    width:30%;
+    line-height: 60px;
+}
+
+#produtos{
+    clear:both;
+}
+
+#produtos li{
+    display:inline-block;
+}
+
+.raizes{
+    float:left;
+    width:45%;
+    padding-top:50px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.snack{
+    float:right;
+    width:50%;
+}
+
+.sobre-nos{
+    padding: 0 20px;
+}
+
+
+.texto-valores{
+    line-height: 30px;
+    padding-left: 0;
+    padding-right:0;
+}
+.raizes .titulo, .missoes .titulo{
+    text-align:left;
+    padding-left:0;
+}
+
+.missao{
+    clear:both;
+}
+
+
+
+.missoes{
+    float:right;
+    width:45%;
+    padding-top:50px;
+}
+
+.missoes-pipoca{
+    float:left;
+    width:50%;
+}
+
+#historia{
+    margin-top: 100px;
+    float: right;
+    cursor: pointer;
+}
+
+.divisao-redes{
+    width:40%;
+    float:left;
+    padding-top:100px;
+}
+
+.divisao-redes h4{
+    font-size: 30px;
+}
+
+#redes-sociais {
+    margin: 50px 20px;
+}
+
+#redes-sociais li{
+    display:inline-block;
+}
+
+.tika-pop{
+    width:50%;
+    max-width: 500px;
+}
+
+#receitas li{
+    display: inline-block;
+    width:20%;
+    vertical-align: top;
+    padding: 0 2%;
+}
+
+#receitas p, #receitas a{
+    text-align: center;
+    padding:10px;
+    font-weight: bold;
+    color:inherit;
+    text-decoration: none;
+}
+
+
+
+
+
+.img-receitas{
+    min-height: 204px;
+}
+
+#rodape{
+    display:flex;
+    justify-content: space-between;
+    clear:both;
+    padding: 0 10%;
+}
+
+.copyright{
+    padding-bottom:20px;
+    padding-left:10%;
+    font-size:0.9em;
+		text-align: left;
+
+}
+
+.rodape-redes img {
+    
+    width: 25%;
+}
+
+#produtos{
+    padding-top:20px;
+}
+
+.logo-rodape{
+    width:60%;
+}
+
+
+/* pagina produtos*/
+
+.produto-unico{
+    padding: 0 10%;
+    clear:both;
+}
+
+.cabecalho-produto{
+    height: 700px;
+}
+
+.produto-individual{
+    float:left;
+    width:50%;
+}
+
+.chips-tika{
+    width:65%;
+}
+
+.produto-descricao .titulo-produto{
+    font-size: 35px;
+    font-weight: 100;
+}
+
+.produto-descricao{
+    padding-top:70px;
+}
+
+.produto-descricao em{
+    line-height: 50px;
+}
+
+.produto-descricao p{
+    line-height:25px;
+}
+
+.aditivos{
+    float: right;
+    width: 50%;
+}
+
+/*paginas receitas*/
+
+.cabecalho-receitas{
+    height:300px;
+}
+
+.barra-cabecalho-receitas{
+    height:20%;
+    width: 100%;
+    box-shadow: inset 6000px 0 0 0 rgba(0, 0, 0, 0.5);
+}
+
+.chamada-receitas{
+    font-size: 40px;
+    width: 30%;
+    padding-top:10%;
+}
+.foto-receita{
+    width:40%;
+    display:block;
+    margin: 0 auto;
+}
+
+#todas-receitas{
+    margin: 20px 10%;
+}
+
+.receita-unica{
+    margin-bottom:50px;
+}
+
+.titulo-receita{
+    font-size:30px;
+}
+
+.receita-unica p{
+    line-height: 45px;
+}
+
+.como-fazer li{
+    line-height: 25px;
+}
+
+/*formulário*/
+
+.input-padrao{
+    width: 30%;
+}
+
+.input-enviar{
+    width:40%;
+}
+
+.enviar{
+    display: block;
+    cursor:pointer;
+}
+
+}
+
+

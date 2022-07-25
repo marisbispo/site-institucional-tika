@@ -1,0 +1,57 @@
+.fondo{
+   /* background: url(https://7static.loadingplay.com/static/images/702ba4f86ddd7e098d1e08feaa76262f_banner2.png);*/
+    background-repeat:no-repeat;
+    object-fit: cover;
+    background-position: 0px ;
+    width: 103%;
+    height: 508px;
+    margin-top: -18px;
+    position: relative;
+    margin-left: -15px;
+    margin-top: -31px;
+    object-fit: cover;
+}
+
+.cien{
+    text-align: center;
+    color: white;
+    margin-top: -305px;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+@media (max-width:991px){
+   .fondo{
+    margin-top: -63px;
+   }
+
+   .img.fo{
+     width: 123%;
+     left: 0px;
+   }
+}
+
+@media screen and (max-width: 700px){
+.fondo{
+    object-position: 100%;
+    margin-top: 0px;
+    width: 111%;
+    height: 500px;
+    object-fit: cover;
+    position: relative;
+    display: table;
+    bottom: 51px;
+    }
+}
+
+@media all and (max-width: 768px){
+    .fondo{
+        bottom: 80px;
+    }
+
+    .papas{
+        object-fit:cover;
+    }
+  
+}
+

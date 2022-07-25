@@ -1,0 +1,374 @@
+
+.logo-footer{
+    color: rgba(221, 221, 221, 0.93);
+    display: block;
+    position: relative;
+    top: 22px;
+    font-size: 88px;
+    font-family: sans-serif;
+}
+
+/*.farm{
+	width: 85px;
+	height:85px;
+	display: inline-flex;
+	position: relative;
+    bottom: 78px;
+    left: 205px;
+}*/
+
+.sociales{
+	padding: 30px 0px;
+	width: 50px;
+}
+.list-info{
+    display: block;
+    position: relative;
+    color: rgba(221, 221, 221, 0.93);
+    font-size: 23px;
+    top: 15px;
+    left: 20px;
+    text-align: center;
+}
+.inform-comerc{
+    font-size:16px;
+}
+.inform-comerc .no-dot{
+    font-size:12px;
+}
+
+.text-list{
+     font-size:16px;
+}
+
+.tika-logo{
+    position: relative;
+    top: -20px;
+    width: 150px;
+    margin: 0 auto;
+    left: -80px;
+}
+
+.tika-logo-farm{
+    padding-top: 20px;
+    margin-left: 173px;
+    width: 50%;
+}
+
+.footer-home{
+	position: relative;
+	font-size: 23px;
+	background-color:black;
+	width:100%;
+	height:auto; 
+	color: rgba(221, 221, 221, 0.93);
+    /*margin-top: 148px;*/
+    top: 13px;
+}
+.footer-contact{
+     margin-top: 0px;
+}
+
+.back{
+	background-color:#656667;
+	/*padding: 20px;*/
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.no-dot{
+	list-style:none;
+    width: 142%;
+    position: relative;
+    left: -46px;
+}
+
+.pad-img{
+	padding: 20px 0px;
+}
+.tl{
+        /*margin-top: 8px;*/
+}
+
+.link-footer{
+    color: white;
+}
+
+.link-footer:hover{
+    color: white;
+}
+
+.designed{
+    color: white;
+    font-size: 12px;
+    position: relative;
+    width: 135%;
+    right: 113px;
+    top: -2px;
+}
+
+
+/*----------Star responsive------*/
+
+@media (max-width: 1260px)  {
+      .inform-comerc{
+            right: 26px;
+          position: relative;
+      }
+}
+
+@media (max-width: 1194px){
+    .inform-comerc{
+        right: -19px;
+    }
+}
+
+
+@media (min-width: 600px) and (max-width: 990px){
+    .dott{
+        margin-left: 0px;
+    }
+}
+@media (min-width: 513px) and (max-width: 991px){
+    .center{
+        position: static;
+    }
+
+    .tika-logo-farm{
+    width: 11%;
+    margin-left: 0px;
+    position: relative;
+    top: -14px !important;
+   }
+
+   .tika-logo{
+    left: 0px;
+   }
+   
+   .text-list{
+    left: -29px;
+    position: relative;
+   }
+  
+  .designed{
+    right: 74px;
+  }
+  
+
+}
+
+
+
+
+/*@media (min-width: 550px) and (max-width: 991px){
+    .inform-comerc{
+    position: relative;
+    left: 145px !important;
+    text-align: center !important;
+  }
+}
+
+*/
+
+
+@media (min-width: 452px) and (max-width: 991px){
+  .tika-logo-farm{
+    width: 11% !important;
+    margin-left: 0px;
+    position: relative;
+    top: -14px !important;
+   }
+
+   .tika-logo{
+    left: 0px;
+   }
+   
+   .text-list{
+    left: -32px;
+    position: relative;
+   }
+ 
+  .inform-comerc{
+    position: relative;
+    left: 139px;
+    text-align: center !important;
+  }
+  
+  .designed{
+    right: 74px;
+  }
+
+
+}
+
+@media (max-width:991px){
+   .tika-logo-farm{
+    width: 11%;
+    margin-left: 18px;
+    position: relative;
+    top: -14px !important;
+   }
+
+   .tika-logo{
+    left: 0px;
+   }
+   
+   .text-list{
+    left: -29px;
+    position: relative;
+   }
+ 
+  .inform-comerc{
+    position: relative;
+    left: 139px;
+    text-align: center !important;
+  }
+  
+  .designed{
+    right: 74px;
+  }
+  
+  .center{
+        position: static;
+    }
+ } 
+
+
+@media screen and (max-width: 700px){
+.back{
+    padding-top: 0px;
+    width: 101%;
+    left: -1px;
+}
+.no-dot{
+    text-align: center;
+    width: 100%;
+    margin-left: 47px;
+    margin-right: auto;
+    padding: 0px;
+    padding-top: 0px;
+}
+
+.tika-logo{
+    position: relative;
+    top: 0px;
+    margin:0 auto;
+    left: 0px;
+}
+.fb{
+    position: relative!important;
+    top: 0px !important;
+}
+.instag {
+    position: relative!important;
+    top: 0px !important;
+}
+.tl{
+    position: relative!important;
+    right: 0px!important;
+}
+/*.tika-logo-farm{
+margin-top: 15px;
+
+}*/
+
+.designed{
+    left: -29px;
+}
+
+.tika-logo-farm{
+    margin-left: 28px;
+    width: 20%;
+}
+
+.text-list{
+    position: relative;
+    left: 33px;
+}
+
+/*.inform-comerc{
+    position: relative;
+    left: 94px;
+}*/
+
+
+.dott{
+     margin-left: 7px;
+     width: 114%;
+}
+
+.farm2{
+    width: 94%;
+}
+
+}
+
+
+@media (max-width: 550px){
+
+    .inform-comerc{
+        left: 125px;
+        position: relative;
+    }
+}
+
+
+@media (min-width: 513px) and (max-width:549px){
+    .inform-comerc{
+    position: relative;
+    /*left: 139px;*/
+    text-align: center !important;
+  }
+}
+
+
+@media screen and (max-width:414px){
+ /*--6plus--*/
+.instag{
+    /*margin-top: 63px;*/
+   }
+
+.tika-logo{
+/*    position: relative;
+    display: inline-block;*/
+    top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    /*padding-left: 0px;*/
+}
+
+}
+
+
+@media screen and (max-width:400px){
+
+
+.tika-logo{
+   position: relative;
+    top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    /*padding-left: 0px;*/
+}
+
+}
+
+
+@media screen and (max-width:320px){
+.instag{
+    margin-top: auto;
+}
+
+.tika-logo{
+    top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    /*padding-left: 0px;*/
+}
+
+
+}

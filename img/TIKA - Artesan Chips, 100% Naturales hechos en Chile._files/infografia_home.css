@@ -1,0 +1,329 @@
+img.info{
+    position: relative;
+    width: 123%;
+    top: -1px;
+    height: 454px;
+    object-fit: cover;
+}
+
+img.fo{
+    position: relative;
+    width: 123%;
+    right: 91px !important;
+    height: 454px;
+    object-fit: cover;
+    left: inherit!important;
+}
+
+.img-info-tika{
+    width: 52.5%;
+}
+
+.fondos-tika{
+    width: 107% !important;
+}
+
+.img-veganas{
+    margin-left: -70px;
+}
+
+.img-gluten{
+    margin-left: -40px;
+}
+
+.grafia{
+    margin-left: 0px;
+    font-size: 50px;
+    margin-top: 43px;
+    font-weight: 100;
+}
+
+.grafiaa{
+    margin-left: 12%;
+    font-size: 50px;
+    margin-top: 43px;
+    font-weight: 100;
+}
+
+.cont{
+    margin-left: 0px;
+    font-size: 16px;
+    text-align: left;
+    margin-right: 73px;
+    color: #A4A4A4;
+    float: right;
+}
+
+.contt{
+    margin-left: 12%;
+    font-size: 16px;
+    text-align: left;
+    color: #A4A4A4;
+    margin-right: 22px;
+}
+
+.adaptable{
+    margin-left: 201px;
+    font-size: 27px;
+    background: #8A0808;
+    color: white !important;
+    padding: 7px;
+    padding-left: 11px;
+}
+
+/*
+.btn.active.acti{
+    font-size: 19px;
+    border-radius: 0px;
+    position: relative;
+    top: 170px;
+}
+*/
+
+img.icon{
+    position: relative;
+    margin-top: -445px;
+    margin-left: 164px;
+
+}
+
+.adaptable:hover{
+    background-color: white;
+    color: #B40404 !important;
+}
+
+
+.btn-conoce-nuestra-historia-wrapper {
+    left: -90px;
+    bottom: 2px;
+}
+/*----responsive----*/
+
+/*@media(max-width: 1326px){
+    img.fo {
+    left: 0px !important;
+}
+
+}*/
+
+@media (max-width:1346px){
+    img.fo{
+    width: 126% !important;
+    right: 111px !important;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1326px){
+   img.fo{
+    left: 0px;
+   }
+}
+
+@media all and(max-width:1024px){
+    
+}
+
+@media (max-width: 1199px){
+   .btn.active.acti{
+    top: 87px;
+   }
+}
+
+@media (max-width:991px){
+  img.info{
+    width: 100%;
+  }
+
+  .img-info-tika{
+    width: 108%;
+  }
+
+  .img-gluten{
+    margin-left: -15px;
+  }
+
+  .img-veganas{
+    margin-left: -17px;
+  }
+
+  .fondos-tika{
+    width: 100% !important;
+    }
+
+  img.fo{
+    width: 100%;
+    left: 0px;
+  }
+}
+
+@media screen and (max-width: 990px)
+{
+    .btn-conoce-nuestra-historia-wrapper, .btn-conoce-nuetra-historia {
+        position: initial!important;
+    }
+}
+
+@media screen and (max-width: 700px){
+   
+img.icon{
+    margin-left: 81px;
+    margin-top: -176px;
+   }
+
+/*img.info{
+    padding: 4px;
+    left: -30px;
+    top: 25px;
+   }
+ 
+img.fo{
+    position: relative;
+    width: 123%;
+    left: -31px;
+   }
+*/
+
+img.info{
+    left: -31px;
+    position: relative;
+    width: 118%;
+}
+
+img.fo{
+    left: -24px;
+    top: 8px;
+    position: relative;
+    width: 138% !important;
+}
+
+
+.adaptable{
+    margin-left: 1px;
+    font-size: 22px;
+    padding: 8px;
+    height: 49px;
+    width: 262px;
+    margin-top: 40px;
+   }
+
+.grafia{
+    margin-left: -6px;
+    font-size: 50px;
+    text-align: center;
+   }
+
+.grafiaa{
+    margin-left: 2px;
+    text-align: center;
+   }
+
+
+.cont{
+    text-align: left;
+    margin-left: 2px;
+    margin-right: 0%;
+   }
+
+.contt{
+    margin-left: 3px;
+    font-size: 18px;
+    text-align: left;
+   }
+
+.btn.active.acti {
+    font-size: 18px;
+    height: 42px;
+    top: 41px;
+}
+
+.pencil{
+    margin-top: 19px;
+}
+
+}
+
+/*--6plus--*/
+@media screen and (max-width:414px){
+img.icon{
+    margin-left: 135px;
+    margin-top: -241px;
+   }
+
+
+.btn.active.acti{
+      margin-left: 45px;
+   }
+
+
+img.info{
+    width: 114%;
+}
+
+img.fo{
+    width: 114%;
+}
+
+/*.pencil-2{
+    margin-top: 149px;
+}
+*/
+}
+
+
+@media screen and (max-width:400px){
+.grafiaa{
+    margin-left: 0px;
+   }
+   
+img.icon{
+    margin-left: 116px;
+    margin-top: -203px;
+ }
+   
+.btn.active.acti{
+      margin-left: 25px;
+   }
+
+img.info{
+    width: 115%;
+}
+
+img.fo{
+    width: 115%;
+}
+
+}
+
+
+@media screen and (max-width:320px){
+.grafiaa{
+    margin-left: 2px;
+   }
+
+img.icon{
+    margin-left: 81px;
+    margin-top: -176px;
+ }
+
+
+.btn.active.acti{
+      margin-left: auto;
+      top: 41px;
+   }
+
+
+img.info{
+    left: -24px;
+    position: relative;
+    width: 118%;
+}
+
+img.fo{
+    left: -24px;
+    top: 8px;
+    position: relative;
+    width: 118%;
+}
+
+
+}

@@ -1,0 +1,2825 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    -webkit-text-stroke: 0px rgba(0, 0, 0, 0.1);
+    -webkit-overflow-scrolling: touch;
+}
+
+.su-fix
+{
+    margin-top: -195px;
+}
+
+.lapiz-index
+{
+    top: 66px !important;
+}
+
+.relative
+{
+    position: relative;
+}
+
+.absolute
+{
+    position: absolute;
+}
+
+.text-align
+{
+    text-align: center;
+}
+
+.title-product
+{
+    text-align: center;
+    font-size: 50px;
+    color: #bcbcbc;
+}
+
+.fill-parent
+{
+    width: 100%;
+    height: 732px;
+    object-fit: cover;
+}
+
+.dis
+{
+    position: relative;
+    top: 136px;
+    left: -111px;
+}
+
+.circulo-bajada
+{
+    content: ' ';
+    position: absolute;
+    left: 50%;
+    top: -45px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 20px solid white;
+    border-radius: 50%;
+    z-index: 10;
+    padding: 5px;
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+}
+
+.fa-chevron-circle-down
+{
+    font-size: 48px !important;
+    color: #6E6E6E;
+    position: relative;
+    bottom: -2px;
+}
+
+.bottom
+{
+    position: absolute;
+    bottom: 0px;
+}
+
+.titulo4
+{
+    font-size: 58px;
+}
+
+.products h2
+{
+    padding-left: 18px;
+    font-size: 58px;
+    font-weight: 200;
+    color: #555;
+}
+
+.product-wrapper img
+{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*-----------banner redes sociales-------------*/
+.papas
+{
+    position: relative;
+    top: 75px;
+    margin-bottom: 47px;
+    width: 425px;
+    height: 425px;
+    object-fit: cover;
+}
+
+.escrit
+{
+    position: relative;
+    top: 138px;
+    font-size: 44px;
+    font-weight: normal;
+    color: #6E6E6E;
+    font-weight: 300;
+}
+
+.redes
+{
+    position: relative;
+    top: 140px;
+    width: 96px;
+}
+
+.fondo-gris
+{
+    background-color: #E0E2DF;
+    padding-bottom: 65px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/*-----------vitrina recetas----------*/
+.position-link
+{
+    position: relative;
+    top: -30px;
+}
+
+.titulo
+{
+    font-size: 58px;
+    margin-top: 7px;
+    text-align: left;
+    position: relative;
+    left: 0px;
+    font-weight: 100;
+}
+
+.img-responsive
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding-bottom: 1px;
+}
+
+.photos
+{
+    padding: 5px;
+}
+
+.text
+{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.text-dos
+{
+    font-size: 20px;
+    text-align: center;
+    overflow: hidden;
+    height: 60px;
+    margin-top: 0px;
+    font-weight: 100;
+    color: #848484;
+}
+
+span.product
+{
+    position: relative;
+    left: 123px;
+    top: 40px;
+    font-size: 21px;
+}
+
+.triangle-2
+{
+    position: relative;
+    float: right;
+    right: 109px;
+    top: 10px;
+}
+
+.red
+{
+    color: #B40404;
+}
+
+.red:hover
+{
+    color: #B40404;
+}
+
+.fsize10
+{
+    font-size: 10px;
+}
+
+.fsize12
+{
+    font-size: 12px;
+}
+
+.fsize14
+{
+    font-size: 14px !important;
+}
+
+.fsize16
+{
+    font-size: 16px;
+}
+
+.fsize18
+{
+    font-size: 18px !important;
+}
+
+.fsize20
+{
+    font-size: 20px;
+}
+
+.fsize22
+{
+    font-size: 22px;
+}
+
+.fsize24
+{
+    font-size: 24px;
+}
+
+.fsize26
+{
+    font-size: 26px;
+}
+
+.fsize28
+{
+    font-size: 28px;
+}
+
+.fsize30
+{
+    font-size: 30px;
+}
+
+.fsize32
+{
+    font-size: 32px;
+}
+
+.fsize34
+{
+    font-size: 34px;
+}
+
+.fsize36
+{
+    font-size: 36px;
+}
+
+.fsize38
+{
+    font-size: 38px;
+}
+
+.fsize40
+{
+    font-size: 40px;
+}
+
+.fsize42
+{
+    font-size: 42px;
+}
+
+.fsize44
+{
+    font-size: 44px;
+}
+
+.fsize46
+{
+    font-size: 46px;
+}
+
+.fsize48
+{
+    font-size: 48px;
+}
+
+.fsize50
+{
+    font-size: 50px;
+}
+
+.fsize60
+{
+    font-size: 60px;
+}
+
+.text-center
+{
+    text-align: center !important;
+}
+
+.text-right
+{
+    text-align: right !important;
+}
+
+.text-left
+{
+    text-align: left;
+}
+
+.text-justify
+{
+    text-align: justify;
+}
+
+.f100
+{
+    font-weight: 100;
+}
+
+.f200
+{
+    font-weight: 200;
+}
+
+.f300
+{
+    font-weight: 300 !important;
+}
+
+.f400
+{
+    font-weight: 400;
+}
+
+.f500
+{
+    font-weight: 500;
+}
+
+.f600
+{
+    font-weight: 600;
+}
+
+.f700
+{
+    font-weight: 700;
+}
+
+.f800
+{
+    font-weight: 800;
+}
+
+.f900
+{
+    font-weight: 900;
+}
+
+.space5
+{
+    margin-top: 5px !important;
+}
+
+.space10
+{
+    margin-top: 10px !important;
+}
+
+.space15
+{
+    margin-top: 15px;
+}
+
+.space20
+{
+    margin-top: 20px;
+}
+
+.space25
+{
+    margin-top: 25px;
+}
+
+.space30
+{
+    margin-top: 30px;
+}
+
+.space40
+{
+    margin-top: 40px;
+}
+
+.space50
+{
+    margin-top: 50px;
+}
+
+.space60
+{
+    margin-top: 60px;
+}
+
+.space70
+{
+    margin-top: 70px;
+}
+
+.space75
+{
+    margin-top: 75px;
+}
+
+.space80
+{
+    margin-top: 80px;
+}
+
+.space90
+{
+    margin-top: 90px;
+}
+
+.space100
+{
+    margin-top: 100px;
+}
+
+.space130
+{
+    margin-top: 130px;
+}
+
+.space148
+{
+    margin-top: 148px;
+}
+
+.space150
+{
+    margin-top: 150px;
+}
+
+.space160
+{
+    margin-top: 160px;
+}
+
+.space170
+{
+    margin-top: 170px;
+}
+
+.space180
+{
+    margin-top: 180px;
+}
+
+.space200
+{
+    margin-top: 200px;
+}
+
+.space240
+{
+    margin-top: 240px;
+}
+
+.mbtm7
+{
+    margin-bottom: 7px;
+}
+
+.mbtm10
+{
+    margin-bottom: 10px;
+}
+
+.mbtm20
+{
+    margin-bottom: 20px;
+}
+
+.mbtm30
+{
+    margin-bottom: 30px;
+}
+
+.mbtm40
+{
+    margin-bottom: 40px;
+}
+
+.mbtm50
+{
+    margin-bottom: 50px;
+}
+
+.mbtm60
+{
+    margin-bottom: 60px;
+}
+
+.mbtm70
+{
+    margin-bottom: 70px;
+}
+
+.mbtm80
+{
+    margin-bottom: 80px;
+}
+
+.mbtm90
+{
+    margin-bottom: 90px;
+}
+
+.mbtm100
+{
+    margin-bottom: 100px;
+}
+
+.m0
+{
+    margin: 0;
+}
+
+.mbtm0
+{
+    margin-bottom: 0px;
+}
+
+.mleft10
+{
+    margin-left: 10px;
+}
+
+.mright10
+{
+    margin-right: 10px;
+}
+
+.mright30
+{
+    margin-right: 30px;
+}
+
+.mauto
+{
+    margin: 0px auto !important;
+}
+
+.mautomargin
+{
+    margin: 40px auto !important;
+}
+
+.marginR
+{
+    margin-right: 40px;
+    text-align: center;
+    margin-left: 35px;
+}
+
+.marginL
+{
+    margin-left: 50px;
+}
+
+.margin-right
+{
+    margin-right: 307px;
+}
+
+.marginL14
+{
+    margin-left: 14%;
+}
+
+.mtop100
+{
+    margin-top: -100px;
+}
+
+.border-btm
+{
+    border-bottom: 1px solid #fff;
+}
+
+.height
+{
+    height: 100px;
+}
+
+.pad0
+{
+    padding: 0px !important;
+}
+
+.pad10
+{
+    padding: 10px !important;
+}
+
+.pad20
+{
+    padding: 20px;
+}
+
+.pad30
+{
+    padding: 30px;
+}
+
+.pad40
+{
+    padding: 40px;
+}
+
+.pad50
+{
+    padding: 50px;
+}
+
+.pad60
+{
+    padding: 60px;
+}
+
+.pad70
+{
+    padding: 70px;
+}
+
+.pad80
+{
+    padding: 80px;
+}
+
+.pad90
+{
+    padding: 90px;
+}
+
+.pad100
+{
+    padding: 100px;
+}
+
+.padleft0
+{
+    padding-left: 0px !important;
+}
+
+.padright0
+{
+    padding-right: 0px !important;
+}
+
+.padtop0
+{
+    padding-top: 0px !important;
+}
+
+.padbottom0
+{
+    padding-bottom: 0px !important;
+}
+
+.padbottom20
+{
+    padding-bottom: 20px !important;
+}
+
+.padbottom100
+{
+    padding-bottom: 100px !important;
+}
+
+.padbottom60
+{
+    padding-bottom: 60px !important;
+}
+
+.cuadros
+{
+    width: 468px;
+    height: 670px;
+    margin-left: -120px;
+}
+
+.cuadross
+{
+    margin-left: -48px;
+    width: 443px;
+    height: 670px;
+}
+
+.cuadrosss
+{
+    width: 456px;
+    margin-left: -6px;
+    height: 670px;
+}
+
+.sobre
+{
+    text-align: center;
+    position: relative;
+    margin-top: -511px;
+    color: white;
+    font-size: 51px;
+    width: 65%;
+    left: -79px;
+    font-weight: 100;
+}
+
+.sobre2
+{
+    text-align: center;
+    position: relative;
+    margin-top: -511px;
+    color: white;
+    font-size: 51px;
+    width: 65%;
+    left: 2px;
+    font-weight: 100;
+}
+
+.sobre3
+{
+    text-align: center;
+    position: relative;
+    margin-top: -511px;
+    color: white;
+    font-size: 51px;
+    width: 88%;
+    left: 71px;
+    font-weight: 100;
+}
+
+.mas
+{
+    margin-left: 53px;
+    position: relative;
+    margin-top: 189px;
+    background: #E6E6E6;
+    text-align: center;
+    width: 326px;
+    font-size: 26px;
+    height: 52px;
+    padding: 12px;
+    color: #6E6E6E !important;
+    font-weight: 600;
+}
+
+.mass
+{
+    margin-left: 63px;
+    position: relative;
+    margin-top: 252px;
+    background: #E6E6E6;
+    text-align: center;
+    width: 326px;
+    font-size: 26px;
+    height: 52px;
+    padding: 12px;
+    color: #6E6E6E !important;
+    font-weight: 600;
+}
+
+.mas:hover
+{
+    color: #B40404 !important;
+    background-color: #E6E6E6 !important;
+}
+
+.mass:hover
+{
+    color: white !important;
+    background-color: #E6E6E6 !important;
+}
+
+.btn.active.actii
+{
+    font-size: 20px;
+    border-radius: 0px;
+    top: 368px;
+    height: 47px;
+    padding: 10px;
+    position: absolute;
+    left: -99px;
+}
+
+.btn.active.actiii
+{
+    font-size: 20px;
+    border-radius: 0px;
+    top: 368px;
+    height: 47px;
+    padding: 10px;
+    position: absolute;
+    left: -38px;
+}
+
+.btn.active.actiiii
+{
+    font-size: 20px;
+    border-radius: 0px;
+    top: 366px;
+    height: 47px;
+    padding: 10px;
+    position: absolute;
+    left: 53px;
+}
+
+.ulti
+{
+    margin-left: 14px;
+}
+
+.lla
+{
+    right: -58px !important;
+}
+
+.lla1
+{
+    right: 61px !important;
+}
+
+#main-nav-fixed-navigation
+{
+    margin-top: -200px;
+}
+
+.fixed-menu
+{
+    position: fixed;
+    z-index: 2000;
+    height: 60px;
+    width: 100%;
+}
+
+.fonprod
+{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: 0px;
+    width: 100%;
+    height: 508px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.pro-rec
+{
+    color: white;
+    margin-top: 297px;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+
+.tiki
+{
+    border-bottom: dashed 2px;
+    margin-top: 50px;
+}
+
+.bor
+{
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    overflow-x: hidden;
+}
+
+.envase-wrapper img
+{
+    width: 280px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: block;
+    height: 350px;
+    margin-top: 30px;
+}
+
+.img-wrapper
+{
+    height: 440px;
+    line-height: 350px;
+    display: inline-block;
+    float: none;
+}
+
+.img-wrapper-recipe
+{
+    width: 100%;
+    line-height: 230px;
+}
+
+.mee
+{
+    margin-left: -118px;
+    text-align: center;
+}
+
+.camote
+{
+    text-align: center;
+}
+
+.conten-prod
+{
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    display: table;
+}
+
+.banner-container
+{
+    width: 100%;
+    height: 880px;
+    position: relative;
+}
+
+.banner-image
+{
+    width: 100%;
+    height: 944px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+}
+
+.banner-editable
+{
+    position: relative !important;
+    right: 0px !important;
+}
+
+.editable-text-container
+{
+    width:100%;
+    position: absolute;
+    bottom: 0px;
+}
+
+.fondo-banner
+{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: 0px;
+    width: 123%;
+    height: 650px;
+    overflow: hidden;
+    position: absolute;
+    left: -140px;
+}
+
+.parallax-window
+{
+    min-height: 508px;
+    background: transparent;
+}
+
+.pro-rec
+{
+    color: white;
+    margin-top: 333px;
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.description
+{
+    color: white;
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    line-height: 1.2;
+    -webkit-font-smoothing: antialiased;
+    word-wrap: break-word;
+}
+
+.img-recipe
+{
+    height: 287px;
+    object-fit: cover;
+}
+
+.bor
+{
+    width: 100%;
+    padding-left: 1px;
+    padding-right: 1px;
+    overflow-x: hidden;
+    overflow: hidden;
+}
+
+.recetas
+{
+    margin: 0 auto;
+    text-align: center;
+    display: table;
+    position: relative;
+    padding-top: 20px;
+}
+
+.salsa
+{
+    font-size: 26px;
+    margin-top: 10px;
+}
+
+.ingrediente
+{
+    font-size: 20px;
+    text-align: center;
+    color: #A4A4A4;
+    overflow: hidden;
+    height: 67px;
+}
+
+.lado-left
+{
+    text-align: left;
+}
+
+.tik
+{
+    border: 0;
+    height: 5px;
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+}
+
+.tika-text
+{
+    position: relative;
+    bottom: 56px;
+}
+
+.left
+{
+    padding-left: 0px;
+}
+
+.box-4
+{
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.box-4 .mask
+{
+    position: absolute;
+    background: rgba(0, 0, 0, 0.3);
+    height: 100%;
+    width: 100%;
+    top: 0;
+    opacity: 0;
+}
+
+.box-4:hover .mask
+{
+    opacity: 1;
+}
+
+.hover-recipe
+{
+    font-size: 50px;
+    color: #fff;
+    line-height: 1em;
+    display: inline-flex;
+}
+
+.font-pacifico
+{
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+}
+
+.fondo-form
+{
+    position: absolute;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.descrip-Form
+{
+    font-size: 28px;
+}
+
+.distrib
+{
+    padding-top: 10%;
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.download
+{
+    color: white !important;
+    background-color: rgba(0, 0, 0, .9)!important;
+    text-align: center !important;
+    margin: 0 auto;
+    vertical-align: middle! important;
+    border: none;
+    border-radius: 0px;
+    margin-top: 30px;
+    font-weight: 200;
+    font-size: 28px;
+    padding: 20px;
+}
+
+.descrip-descar
+{
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+    padding-top: 100px;
+    max-width: 999px;
+}
+
+.align-form-contact
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 305px;
+    margin-top: 30px;
+    padding-right: 305px;
+    padding-bottom: 20px;
+}
+
+.fondo-contact
+{
+    background-color: #F2F2F2;
+    width: 100%;
+    height: auto;
+}
+
+.background-content
+{
+    background-color: #F2F2F2;
+}
+
+.nues
+{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: 0px;
+    width: 119%;
+    position: relative;
+    top: 0px;
+    margin-left: -105px;
+    float: left;
+    margin-bottom: -128px;
+}
+
+.nuess
+{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: 0px;
+    width: 119%;
+    position: relative;
+    margin-left: -105px;
+    float: left;
+    margin-top: -245px;
+    margin-bottom: -2px;
+}
+
+.nuesss
+{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: 0px;
+    width: 119%;
+    position: relative;
+    margin-left: -105px;
+    float: left;
+    margin-bottom: -130px;
+}
+
+.nuessss
+{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: 0px;
+    width: 119%;
+    position: relative;
+    margin-left: -105px;
+    float: left;
+}
+
+.rel
+{
+    position: relative;
+}
+
+.ab
+{
+    position: relative;
+    z-index: 2;
+    margin-bottom: -80px;
+}
+
+.the
+{
+    color: white;
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 27px;
+    position: relative;
+    top: -1334px;
+    font-style: italic;
+}
+
+.thee
+{
+    color: white;
+    width: 38%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    top: -1250px;
+    position: relative;
+    font-style: italic;
+}
+
+.theee
+{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 28px;
+    top: -615px;
+    position: relative;
+    font-style: italic;
+}
+
+.nu
+{
+    color: white;
+    font-size: 67px;
+    position: relative;
+    top: -1431px;
+    font-weight: 700;
+}
+
+.bott
+{
+    color: white;
+    width: 81%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -598px;
+    position: relative;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.both
+{
+    color: white;
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -244px;
+    position: relative;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.bothh
+{
+    color: white;
+    width: 57%;
+    margin-top: -244px;
+    position: relative;
+    font-size: 28px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+}
+
+.bottt
+{
+    color: white;
+    width: 33%;
+    margin-top: -244px;
+    position: relative;
+    font-size: 28px;
+    font-style: italic;
+    text-align: left;
+    top: 76px;
+}
+
+.especial
+{
+    margin-top: -450px;
+}
+
+.contact-box
+{
+    height: 630px;
+}
+
+.image-redes-sociales
+{
+    height: 500px;
+}
+
+.table-where-to-buy
+{
+    width: 80%;
+    margin-left: 110px;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.table-where-to-buy>thead>tr>th,
+.table-where-to-buy>tbody>tr>th,
+.table-where-to-buy>tfoot>tr>th,
+.table-where-to-buy>thead>tr>td,
+.table-where-to-buy>tbody>tr>td,
+.table-where-to-buy>tfoot>tr>td
+{
+    border-top: none;
+    padding: 0px 8px;
+}
+
+.country,
+.city,
+.shop
+{
+    width: 230px;
+}
+
+.fancybox
+{
+    cursor: pointer;
+}
+
+.text-descrip
+{
+    text-align: left;
+    margin: 0 auto;
+}
+
+.img-descrip
+{
+    margin-top: 15px;
+}
+
+.img-detal-prod
+{
+    margin-top: 20px!important;
+}
+
+.name-prod
+{
+    font-size: 50px;
+    color: #424242;
+    font-weight: 100!important;
+}
+
+.name-recipe
+{
+    font-size: 50px;
+    color: #424242;
+    font-weight: 100!important;
+    margin-top: 5px;
+}
+
+.desc-prod
+{
+    font-size: 18px;
+    color: #6E6E6E;
+    font-weight: 100;
+}
+
+.titulo-text-detal
+{
+    padding-left: 15px;
+}
+
+.img-detalle-prod
+{
+    width: 250px;
+    height: 150px;
+    display: table;
+    position: relative;
+    margin-top: 20px;
+    object-fit: contain;
+    float: left;
+}
+
+.contenedor-text
+{
+    position: relative;
+}
+
+.text-detal
+{
+    font-size: 50px;
+    font-weight: 200;
+    position: relative;
+    right: 60px;
+}
+
+.success
+{
+    position: relative;
+    z-index: 32;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    bottom: 230px;
+    font-size: 37px;
+}
+
+.success_dos
+{
+    position: relative;
+    z-index: 32;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    bottom: 200px;
+    font-size: 21px;
+}
+
+.nh-4
+{
+    position: absolute;
+    bottom: 0px;
+}
+
+#tika_banner_contacto_home,
+#tika_banner_proveedor,
+#tika_banner_importador
+{
+    background-color: #fff;
+}
+
+.fondo-idiom
+{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.list-idiom
+{
+    display: block;
+    position: relative;
+    color: rgba(221, 221, 221, 0.93);
+    font-size: 23px;
+    top: 40px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 auto;
+    font-weight: 100;
+}
+
+.titulo-idiom
+{
+    margin-top: 50px;
+    color: rgba(221, 221, 221, 0.93);
+    font-size: 23px;
+    font-weight: 100;
+}
+
+#myModal .modal-body
+{
+    min-height: 500px;
+}
+
+.box2
+{
+    position: relative;
+    display: block;
+    height: 4em;
+    overflow: hidden;
+}
+
+.box2 .text
+{
+    overflow: hidden;
+    text-align: justify;
+}
+
+.box2 .text:after
+{
+    content: ' ';
+    position: absolute;
+    display: block;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+}
+
+.box2 .text:before
+{
+    content: '...';
+    text-align: right;
+    position: absolute;
+    display: block;
+    width: 2em;
+    height: 1.6em;
+    bottom: 0em;
+    right: 17.5px;
+    background: -moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 38%, rgba(255, 255, 255, 1) 99%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(38%, rgba(255, 255, 255, 1)), color-stop(99%, rgba(255, 255, 255, 1)));
+    background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(217, 226, 206, 1) 38%, rgba(217, 226, 206, 1) 99%);
+    background: -o-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 38%, rgba(255, 255, 255, 1) 99%);
+    background: -ms-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 38%, rgba(255, 255, 255, 1) 99%);
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 38%, rgba(255, 255, 255, 1) 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#fff', GradientType=1);
+}
+
+.ellipsis
+{
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.ellipsis.multiline
+{
+    white-space: normal;
+}
+
+table#stores thead th,
+table#stores thead td
+{
+    padding: 8px 10px;
+    border-bottom: 1px solid #ba2121 !important;
+}
+
+table#stores.dataTable.no-footer
+{
+    border-bottom: 1px solid #ba2121 !important;
+    color: #656667;
+}
+
+.product-detail
+{
+    position: relative;
+    top: -180px;
+}
+
+#stores_filter
+{
+    color: #656667;
+}
+
+@media(max-width: 1300px)
+{
+    .btn.active.actii
+    {
+        width: 80%;
+        left: -73px;
+    }
+
+    .btn.active.actiii
+    {
+        width: 80%;
+    }
+
+    .btn.active.actiiii
+    {
+        width: 80%;
+    }
+}
+
+@media (max-width: 1254px)
+{
+    .sobre3
+    {
+        left: 31px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: 31px;
+    }
+}
+
+@media (max-width: 1250px)
+{
+    .sobre3
+    {
+        left: 35px;
+    }
+}
+
+@media (max-width: 1199px)
+{
+    .btn.active.actii
+    {
+        left: -92px;
+    }
+
+    .btn.active.actiii
+    {
+        left: -21px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: 53px;
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1199px)
+{
+    .btn-import
+    {
+        top: 911px !important;
+    }
+
+    .product-wrapper img
+    {
+        width: 112%;
+    }
+}
+
+
+@media (max-width:1198px)
+{
+    .nues
+    {
+        width: 135%;
+        margin-left: -121px;
+    }
+
+    .nuess
+    {
+        width: 135%;
+        margin-left: -121px;
+        margin-top: -317px;
+    }
+
+    .nuessss
+    {
+        width: 135%;
+        margin-left: -121px;
+    }
+
+    .nuesss
+    {
+        width: 135%;
+        margin-left: -121px;
+        margin-bottom: -130px;
+    }
+}
+
+@media (max-width: 1085px)
+{
+    .text-detal
+    {
+        right: 6px;
+    }
+
+    .ott
+    {
+        position: relative;
+        left: 19px;
+    }
+}
+
+@media(max-width: 1082px)
+{
+    .sobre3
+    {
+        left: 5px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: 36px;
+    }
+}
+
+@media (max-width: 1064px)
+{
+    .sobre3
+    {
+        left: 16px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: 27px;
+    }
+}
+
+@media (max-width: 1038px)
+{
+    .sobre3
+    {
+        left: -10px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: 18px;
+    }
+}
+
+
+
+@media (max-width:1000px)
+{
+    .img-nutric
+    {
+        width: 100%;
+    }
+}
+
+@media (max-width: 995px)
+{
+    .redes
+    {
+        top: 40px !important;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 992px)
+{
+    .btn.active.actiiii
+    {
+        left: 5px;
+    }
+
+    .sobre3
+    {
+        left: -22px;
+    }
+}
+
+
+@media (max-width:991px)
+{
+    span.product
+    {
+        left: -174px;
+        top: -8px;
+    }
+
+    .escrit
+    {
+        top: 0px;
+        text-align: center;
+    }
+
+    .cuadross
+    {
+        width: 471px;
+        margin-left: 0px;
+    }
+
+    .cuadros
+    {
+        width: 469px;
+        margin-left: 0px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: 140px;
+        width: 314px;
+    }
+
+    .btn.active.actii
+    {
+        left: 143px;
+        width: 314px;
+    }
+
+    .btn.active.actiii
+    {
+        left: 143px;
+        width: 314px;
+    }
+
+    .sobre
+    {
+        left: 3px;
+    }
+
+    .sobre3
+    {
+        left: 5px;
+    }
+
+    .align-form-contact
+    {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .cuadrosss
+    {
+        width: 471px;
+    }
+
+    .ulti
+    {
+        margin-left: 0px;
+    }
+
+    .cont-redes
+    {
+        margin: auto !important;
+        width: 210px !important;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 990px)
+{
+    .btn-import
+    {
+        top: 915px !important;
+        margin-right: 22%;
+    }
+
+    .product-wrapper .merk
+    {
+        padding-left: 0 !important;
+    }
+
+    .camot
+    {
+        padding-left: 0 !important;
+    }
+}
+
+@media (min-width: 981px) and (max-width: 990px)
+{
+    .redes
+    {
+        position: relative;
+        top: 50px!important;
+        display: block;
+    }
+}
+
+@media (max-width: 980px)
+{
+    .redes
+    {
+        position: relative;
+        top: 45px;
+        width: 96px;
+        display: block;
+    }
+
+    .papas
+    {
+        position: relative;
+        right: 15px;
+    }
+}
+
+@media (max-width: 951px)
+{
+    .ulti
+    {
+        margin-left: 0px;
+    }
+
+    .cuadrosss
+    {
+        width: 471px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: 155px;
+    }
+
+    .papas
+    {
+        position: relative;
+        right: 15px;
+    }
+}
+
+@media (max-width:940px)
+{
+    .redes
+    {
+        top: 40px !important;
+    }
+
+    .papas
+    {
+        position: relative;
+        right: 15px;
+    }
+}
+
+@media (min-width: 699px) and (max-width: 767px)
+{
+    .redes
+    {
+        position: relative;
+        top: 45px;
+        width: 96px;
+        display: block;
+    }
+
+    .papas
+    {
+        position: relative;
+        right: 15px;
+    }
+}
+
+@media (max-width:700px)
+{
+    .sobre,
+    .sobre2,
+    .sobre3
+    {
+        width: 75% !important;
+    }
+
+    .ulti
+    {
+        margin-left: 31px;
+    }
+
+    .btn.active.actiii
+    {
+        left: 130px;
+    }
+}
+
+@media screen and (max-width: 700px)
+{
+    .tika-chip1
+    {
+        top: 4px!important;
+        position: relative;
+    }
+
+    .space180
+    {
+        bottom: -47px;
+        position: relative;
+    }
+
+    .dis
+    {
+        position: relative;
+        top: 85px;
+        left: 24px;
+    }
+
+    .escrit
+    {
+        text-align: center;
+        font-size: 26px;
+        top: 34px;
+        position: relative;
+    }
+
+    .papas
+    {
+        position: relative;
+        top: 109px;
+        left: 0px;
+        height: 425px;
+        text-align: center;
+        padding: 4px;
+        width: 425px;
+    }
+
+    .redes
+    {
+        position: relative;
+        top: 68px;
+        height: 69px;
+    }
+
+    .fondo-gris
+    {
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .titulo
+    {
+        margin-left: -4px;
+        margin-top: 53px;
+    }
+
+    span.product
+    {
+        position: relative;
+        left: 0px;
+        top: -2px;
+        font-size: 18px;
+    }
+
+    .triangle-2
+    {
+        right: 3px;
+        top: 9px;
+    }
+
+    .text-detal
+    {
+        position: relative;
+        right: 0px!important;
+        font-size: 30px;
+    }
+
+    .contenedor-text
+    {
+        position: relative;
+        right: 0px!important;
+    }
+
+    .img-detalle-prod
+    {
+        width: 100%;
+        height: auto;
+    }
+
+    .ingrediente
+    {
+        text-align: center;
+    }
+
+    .pro-rec
+    {
+        margin-top: 100px;
+    }
+
+    .tik
+    {
+        margin-top: 60px;
+    }
+
+    .fondo-banner
+    {
+        width: 133%;
+        object-fit: cover;
+        height: 445px;
+    }
+
+    .img-modal
+    {
+        width: 100%;
+        height: 465px;
+        padding: 0px;
+        object-fit: cover;
+    }
+
+    .cuadros
+    {
+        margin-left: -32px;
+        margin-top: 0px;
+    }
+
+    .cuadross
+    {
+        margin-left: -31px;
+        margin-top: 40px!important;
+    }
+
+    .cuadrosss
+    {
+        margin-left: -1px;
+        margin-top: 40px!important;
+    }
+
+    .btn-img-3
+    {
+        position: relative!important;
+        top: 50px!important;
+    }
+
+    .ulti
+    {
+        top: 40px;
+        position: relative;
+        left: -31px;
+    }
+
+    .sobre
+    {
+        position: relative;
+        width: 107%;
+        left: -6px;
+        margin-top: -470px;
+    }
+
+    .sobre2
+    {
+        position: relative;
+        width: 107%;
+        left: -6px;
+        margin-top: -470px;
+    }
+
+    .sobre3
+    {
+        position: relative;
+        width: 107%;
+        left: -5px;
+        margin-top: -470px;
+    }
+
+    .mas
+    {
+        margin-left: 28px;
+        width: 269px;
+    }
+
+    .sobree
+    {
+        position: relative;
+        top: 36px;
+    }
+
+    .mass
+    {
+        margin-left: 30px;
+        width: 269px;
+        position: relative;
+        top: 43px;
+    }
+
+    .btn.active.actii
+    {
+        font-size: 19px;
+        top: 0px;
+        position: inherit;
+        top: -77px;
+        left: -12px;
+    }
+
+    .btn.active.actiii
+    {
+        font-size: 19px;
+        left: 13px;
+    }
+
+    .btn.active.actiiii
+    {
+        left: -6px;
+    }
+
+    .lla
+    {
+        right: 7px !important;
+    }
+
+    .description
+    {
+        font-size: 18px;
+        padding: 3px;
+        position: relative;
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact
+    {
+        top: 5px!important;
+    }
+
+    .pro-rec
+    {
+        margin-top: 133px;
+        position: relative;
+    }
+
+    .distrib
+    {
+        font-size: 35px;
+        padding-top: 200px;
+        text-align: center;
+    }
+
+    .descrip-descar
+    {
+        font-size: 18px;
+        padding-top: 100px;
+        text-align: center;
+    }
+
+    .success
+    {
+        position: relative;
+        z-index: 32;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        color: white;
+        bottom: 350px;
+    }
+
+    .success_dos
+    {
+        position: relative;
+        z-index: 32;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        color: white;
+        bottom: 320px;
+    }
+
+    .nues
+    {
+        width: 141%;
+        height: 762px;
+        left: 2px;
+    }
+
+    .nu
+    {
+        font-size: 35px;
+        top: -512px;
+    }
+
+    .the
+    {
+        font-size: 15px;
+        top: -432px;
+        width: 300px;
+        text-align: left!important;
+    }
+
+    .thee
+    {
+        top: -437px;
+        font-size: 15px;
+        width: 284px;
+        text-align: left!important;
+        right: 9px;
+    }
+
+    .theee
+    {
+        font-size: 15px;
+        top: -235px;
+        text-align: left!important;
+    }
+
+    .nuess
+    {
+        width: 142%;
+        height: 402px;
+        margin-top: -216px;
+        object-fit: cover;
+    }
+
+    .bott
+    {
+        margin-top: -308px;
+        font-size: 17px;
+        text-align: left!important;
+    }
+
+    .both
+    {
+        width: 284px;
+        margin-top: 1px;
+        font-size: 17px;
+        margin-bottom: -20px;
+        text-align: left!important;
+        right: 27px;
+    }
+
+    .nuessss
+    {
+        width: 112%;
+        height: 361px;
+        margin-left: -16px;
+        top: 2px;
+        object-fit: cover;
+    }
+
+    .bothh
+    {
+        font-size: 17px;
+        margin-top: -265px;
+        text-align: left!important;
+    }
+
+    .bottt
+    {
+        font-size: 17px;
+        width: 284px;
+        margin-top: -131px;
+    }
+
+    .nuesss
+    {
+        width: 120%;
+        height: 361px;
+        margin-left: -42px;
+        margin-top: 2px;
+        object-fit: cover;
+    }
+
+    .download
+    {
+        padding-top: 5px;
+        font-size: 18px;
+    }
+
+    .align-form-contact
+    {
+        padding-left: 17px !important;
+        position: relative;
+        display: table;
+        text-align: center;
+        padding-right: 17px;
+    }
+
+    .fondoo
+    {
+        height: 450px !important;
+        margin-top: -60px;
+    }
+
+    .fill-parent
+    {
+        height: 450px;
+        object-fit: cover;
+    }
+
+    .pencil-2
+    {
+        margin-top: 79px;
+    }
+
+    .fonprod
+    {
+        object-fit: cover;
+    }
+    .especial
+    {
+        margin-top: -397px;
+    }
+
+    .space130
+    {
+        margin-top: 154px;
+    }
+
+    .table-where-to-buy
+    {
+        width: 100%;
+        margin-left: 0px;
+        font-weight: 300;
+        font-size: 11px;
+        margin-top: 100px;
+    }
+
+    .img-nutric
+    {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .btn-nutr
+    {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .btn-compr
+    {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    table#stores.dataTable tbody th,
+    table.dataTable tbody td
+    {
+        padding: 8px 5px !important;
+        word-wrap: break-word;
+    }
+
+    #stores .web-page
+    {
+        width: 90px !important;
+    }
+}
+
+@media screen and (max-width: 510px)
+{
+    .papas
+    {
+        width: 100%;
+    }
+
+    .banner-container
+    {
+        height: 540px;
+    }
+
+    .banner-image
+    {
+        height: 600px;
+    }
+}
+
+@media screen and (max-width:414px)
+{
+    .redes
+    {
+        right: 58px;
+        position: relative;
+        top: 68px;
+        height: 69px;
+        width: 102px;
+    }
+
+    .btn.active.actii
+    {
+        position: relative;
+        left: 49px;
+        font-size: 19px;
+    }
+
+    .btn.active.actiii
+    {
+        position: relative;
+        left: 49px;
+        font-size: 19px;
+    }
+
+    .cuadross
+    {
+        width: 120%;
+        margin-left: -1px;
+        margin-top: 107px;
+    }
+
+    .cuadrosss
+    {
+        width: 120%;
+        margin-left: -1px;
+        margin-top: 107px;
+    }
+
+    span.product
+    {
+        left: -18px;
+    }
+
+    .titulo
+    {
+        margin-left: 56px;
+        margin-top: 53px;
+    }
+
+    .sobree
+    {
+        left: 28px;
+    }
+
+    .nues
+    {
+        height: 794px;
+    }
+
+    .nu
+    {
+        top: -494px;
+    }
+
+    .the
+    {
+        top: -424px;
+    }
+
+    .thee
+    {
+        top: -425px;
+    }
+
+    .theee
+    {
+        top: -235px;
+    }
+
+    .table-where-to-buy
+    {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 990px)
+{
+    .bott
+    {
+        margin-top: -390px !important;
+    }
+}
+
+@media (min-width: 702px) and (max-width: 990px)
+{
+    .nu
+    {
+        top: -860px;
+    }
+
+    .the
+    {
+        top: -788px;
+    }
+
+    .thee
+    {
+        top: -782px;
+    }
+
+    .theee
+    {
+        top: -456px;
+    }
+
+    .nuess
+    {
+        margin-top: -457px;
+    }
+
+    .both
+    {
+        margin-top: 17px;
+    }
+
+    .bott
+    {
+        margin-top: -573px;
+    }
+
+    .bottt
+    {
+        top: 90px;
+        width: 60%;
+    }
+}
+
+@media (min-width: 520px) and (max-width: 700px)
+{
+    .btn.active.actiii
+    {
+        left: 130px;
+    }
+
+    .cuadrosss
+    {
+        left: -15px;
+    }
+}
+
+@media (min-width: 487px) and (max-width: 700px)
+{
+    img.tikaa
+    {
+        width: 21% !important;
+    }
+}
+
+@media screen and (max-width:400px)
+{
+    .redes
+    {
+        position: relative;
+        top: 68px;
+        left: -75px;
+        height: 69px;
+        width: 102px;
+    }
+
+    .btn.active.actii
+    {
+        font-size: 19px;
+        position: relative;
+        left: 32px;
+    }
+
+    .btn.active.actiii
+    {
+        position: relative;
+        left: 32px;
+        font-size: 19px;
+    }
+
+    .cuadross
+    {
+        width: 120%;
+        margin-left: -1px;
+        margin-top: 107px;
+    }
+
+    .cuadrosss
+    {
+        width: 120%;
+        margin-left: -1px;
+        margin-top: 107px;
+    }
+
+    span.product
+    {
+        left: 2px;
+    }
+
+    .titulo
+    {
+        margin-left: 33px;
+        margin-top: 53px;
+    }
+
+    .triangle-2
+    {
+        right: 19px;
+        top: 8px;
+    }
+
+    .sobree
+    {
+        left: 37px;
+    }
+
+    .table-where-to-buy
+    {
+        font-size: 15px;
+    }
+}
+
+/* USELESS SINCE VIEWPORT IS HARDCODED TO 430px */
+@media screen and (max-width:320px)
+{
+
+    .redes
+    {
+        position: relative;
+        top: 68px;
+        left: -44px;
+        height: 69px;
+        width: 102px;
+    }
+
+    .btn.active.actii
+    {
+        font-size: 19px;
+        left: auto;
+        position: auto;
+    }
+
+    .btn.active.actiii
+    {
+        font-size: 19px;
+        left: auto;
+        position: auto;
+    }
+
+    .sobree
+    {
+        margin-left: 12px;
+    }
+
+    .cuadross
+    {
+        width: 121%;
+        margin-left: -1px;
+        margin-top: 39px;
+    }
+
+    .cuadros
+    {
+        width: 122%;
+        margin-left: -5px;
+        margin-top: 0px;
+    }
+
+    span.product
+    {
+        position: relative;
+        left: 0px;
+        top: -2px;
+        font-size: 18px;
+    }
+
+    .titulo
+    {
+        margin-left: -4px;
+        margin-top: 53px;
+    }
+
+    span.product
+    {
+        left: -18px;
+    }
+
+    .triangle-2
+    {
+        right: 3px;
+        top: 9px;
+    }
+
+    .sobree
+    {
+        position: relative;
+        top: 36px;
+        left: auto;
+    }
+
+    .pencil-2
+    {
+        margin-top: 79px;
+    }
+
+    .btn-img-3
+    {
+        position: relative;
+        top: -73px;
+    }
+
+    .nues
+    {
+        width: 141%;
+        height: 762px;
+        left: 2px;
+    }
+
+    .nu
+    {
+        font-size: 35px;
+        top: -512px;
+    }
+
+    .the
+    {
+        font-size: 15px;
+        top: -432px;
+        width: 300px;
+    }
+
+    .thee
+    {
+        top: -437px;
+        font-size: 15px;
+        width: 284px;
+    }
+
+    .theee
+    {
+        font-size: 15px;
+        top: -211px;
+    }
+
+    .table-where-to-buy
+    {
+        width: 50%;
+        margin-left: 16px;
+        font-weight: 300;
+        font-size: 11px;
+        margin-top: -100px;
+    }
+
+}

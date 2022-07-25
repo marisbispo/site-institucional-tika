@@ -1,0 +1,71 @@
+/**************EDITABLE IMAGE**************/
+
+div.upload
+{
+    position: relative;
+    width: 80px;
+    height: 24px;
+    overflow: hidden;
+    clip: rect(0px, 80px, 24px, 0px);
+}
+
+div.upload input,
+div.image-upload input
+{
+    position: absolute;
+    left: auto;
+    right: 0px;
+    top: 0px;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+    -moz-opacity: 0;
+    opacity: 0;
+    width: 35px;
+}
+
+
+/*.image-upload > input
+{
+    display: none !important;
+}*/
+
+img.change-image
+{
+    width: 40px;
+    height: 40px;
+}
+
+
+div.image-upload
+{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 10000;
+}
+
+#imgLOAD
+{
+    position: fixed;
+    top: calc(50% - 99px);
+    left: calc(50% - 66px);
+    display: none;
+}
+
+
+/**************END EDITABLE IMAGE**************/
+
+
+/**************EDITABLE LINK**************/
+
+img.editablelink
+{
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    z-index: 100000;
+}
+
+
+/**************END EDITABLE LINK**************/
